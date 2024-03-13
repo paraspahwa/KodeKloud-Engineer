@@ -3,8 +3,7 @@
 Hi folks 👋
 
 - This repository is my journey at KodeKloud Engineer, my solutions will be updated here.
-- I also updated the way to solve Linux problems, instead of doing some boring Linux commands, my solution will solve it
-  by leveraging Ansible
+
 
 ## Ranking
 
