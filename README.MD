@@ -5,12 +5,6 @@ Hi folks 👋
 - This repository is my journey at KodeKloud Engineer, my solutions will be updated here.
 
 
-## Ranking
-
-- Update 24/09/2023: Promoted to **Senior DevOps Engineer**
-
-![Senior DevOps Engineer](assets/senior.png)
-
 # SSH commands
 
 | Service Name             | Command                     |
